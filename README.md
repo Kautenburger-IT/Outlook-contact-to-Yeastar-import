@@ -24,3 +24,8 @@ From within the directory, run the python script
 `-o OUTPUTFILE`  The csv file to be written with the converted data
 
 `-l LOGFILE`     The csv file to be filled with log data
+
+------------
+![Logo](https://github.com/Kautenburger-IT/Kautenburger-IT/raw/main/Logo_Kautenburger-IT.png)
+##  License 
+?
