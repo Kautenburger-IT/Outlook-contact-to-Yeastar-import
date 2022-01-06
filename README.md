@@ -1,9 +1,9 @@
 Outlook to Yeastar converter
 ==============================
 
-A Python script to convert Outlook/Exchange/Microsoft 365 Contact .CSVs to Yeastar PBX compatible .CSVs
-Convert an exported CSV from the format used in Outlook to one compatible with Yeastar. Rows that cannot be converted
-are put into Removed.csv if not defined otherwise.
+A Python script to convert Outlook/Exchange/Microsoft 365 Contact .CSVs to Yeastar PBX compatible .CSVs.    
+Convert an exported CSV from the format used in Outlook to one compatible with Yeastar.   
+Rows that cannot be converted are put into Removed.csv if not defined otherwise.
 
 Getting Started
 ------------
