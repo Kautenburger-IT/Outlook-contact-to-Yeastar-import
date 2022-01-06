@@ -28,4 +28,4 @@ From within the directory, run the python script
 ------------
 ![Logo](https://github.com/Kautenburger-IT/Kautenburger-IT/raw/main/Logo_Kautenburger-IT.png)
 ##  License 
-?
+https://github.com/Kautenburger-IT/Office-to-Yeastar-Converter/blob/main/LICENSE
