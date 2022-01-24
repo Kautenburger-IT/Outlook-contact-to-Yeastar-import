@@ -1,4 +1,5 @@
-Outlook to Yeastar converter
+Outlook-contact-to-Yeastar-import
+Outlook Contacts to Yeastar Converter
 ==============================
 
 A Python script to convert Outlook/Exchange/Microsoft 365 Contact .CSVs to Yeastar PBX compatible .CSVs.    
