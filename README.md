@@ -1,4 +1,3 @@
-Outlook-contact-to-Yeastar-import
 Outlook Contacts to Yeastar Converter
 ==============================
 
